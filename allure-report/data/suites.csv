@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6773","Login test with valid credentials","chromium","2026-01-31","passed","2026-01-31","","Login.spec.ts","",""
+"","2139","Login Test with JSON Data: Valid login @datadriven","chromium","2026-01-31","passed","2026-01-31","","Login.spec.ts","",""
+"","2","get started link","chromium","2026-01-31","skipped","2026-01-31","","example.spec.ts","",""
+"","1687","Login Test with JSON Data: Invalid login @datadriven","chromium","2026-01-31","passed","2026-01-31","","Login.spec.ts","",""
+"","5805","has title","chromium","2026-01-31","failed","2026-01-31","","example.spec.ts","",""
+"","6630","Checkout 6 product","chromium","2026-01-31","passed","2026-01-31","","checkout.spec.ts","",""
